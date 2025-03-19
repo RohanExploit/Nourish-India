@@ -2,7 +2,10 @@
 <h2>Project Team - ShivaSpear</h2>
 <h2>Project Guide -<li>Dr.Sarita V Baleshtwar- 9881697956</li> 
 <li>Dr.Suraj R Nalawade- 9881445045</li></h2>
-<h2>Team Member- Rohan Vijay Gaikwad, Satyam  Shashikant Kadam, Swapnil Koli<, Devshri Sandip Damle/h2>
+<h2>Team Member-<ol><li>Rohan Vijay Gaikwad</li>
+<li>Satyam  Shashikant Kadam</li>
+<li>Swapnil Koli</li>
+<li>Devshri Sandip Damle</li></ol> 
 Online Food bank System in PHP
 
 ### Available Features:
