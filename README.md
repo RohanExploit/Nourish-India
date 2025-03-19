@@ -1,6 +1,9 @@
-# Online-Food-Ordering-System-in-PHP
-
-Online Food Ordering System in PHP
+<h1>Online-Food-Ordering-System-in-PHP</h1>
+<h2>Project Team - ShivaSpear</h2>
+<h2>Project Guide -<li>Dr.Sarita V Baleshtwar- 9881697956</li> 
+<li>Dr.Suraj R Nalawade- 9881445045</li></h2>
+<h2>Team Member- Rohan Vijay Gaikwad, Satyam  Shashikant Kadam, Swapnil Koli<, Devshri Sandip Damle/h2>
+Online Food bank System in PHP
 
 ### Available Features:
 
